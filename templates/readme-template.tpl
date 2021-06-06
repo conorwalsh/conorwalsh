@@ -26,7 +26,7 @@
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://conor.engineer/feed" 5}}
+{{range rss "http://conor.engineer/feed" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
