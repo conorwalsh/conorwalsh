@@ -5,7 +5,7 @@
 - 📙 [conor.engineer](https://conor.engineer)
 - 🌱 Learning more about C, Rust, networking and the cloud
 
-#### 👷 Check out what I'm currently working on
+#### 🔨 Check out what I'm currently working on
 {{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
