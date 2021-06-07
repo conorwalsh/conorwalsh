@@ -1,7 +1,7 @@
 ### Conor Walsh
 - 👷‍♂️ Software Engineer
 - 🏢 Working for Intel [@conorwalsh-intel](https://github.com/conorwalsh-intel)
-- 🇮🇪 Ireland
+- 🇮🇪 Limerick, Ireland
 - 🌐 [conorwalsh.net](https://conorwalsh.net)
 - 📙 [conor.engineer](https://conor.engineer)
 - 🌱 Learning more about C, Rust, networking and the cloud
