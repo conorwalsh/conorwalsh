@@ -7,6 +7,7 @@
 - 🌱 Learning more about C, Rust, networking and the cloud
 
 #### 🔨 Check out what I'm currently working on
+- [DPDK/dpdk](https://github.com/DPDK/dpdk) - Data Plane Development Kit
 
 - [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (3 months ago)
 - [conorwalsh/esp8266-crypto](https://github.com/conorwalsh/esp8266-crypto) - ESP8266 project to display cryptocurrency and stock prices on an OLED (3 months ago)
