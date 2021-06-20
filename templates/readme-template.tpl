@@ -7,7 +7,6 @@
 - 🌱 Learning more about C, Rust, networking and the cloud
 
 #### 🔨 Check out what I'm currently working on
-- [DPDK/dpdk](https://github.com/DPDK/dpdk) - Data Plane Development Kit
 {{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
