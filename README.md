@@ -26,7 +26,7 @@
 
 #### ⭐ Recent Stars
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources (1 day ago)
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources (2 days ago)
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine (2 months ago)
 - [FortAwesome/Font-Awesome-Pro](https://github.com/FortAwesome/Font-Awesome-Pro) - The internet&#39;s most popular icon has been redesigned and built from scratch. (2 months ago)
 - [bbluez/esp8266-crypto](https://github.com/bbluez/esp8266-crypto) - ESP8266 project to display cryptocurrency prices on an OLED (3 months ago)
