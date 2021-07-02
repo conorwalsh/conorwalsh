@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [conorwalsh/doat](https://github.com/conorwalsh/doat) ([v20.11](https://github.com/conorwalsh/doat/releases/tag/v20.11), 3 months ago) - DPDK Optimisation &amp; Analysis Tool
+- [conorwalsh/doat](https://github.com/conorwalsh/doat) ([v20.11](https://github.com/conorwalsh/doat/releases/tag/v20.11), 4 months ago) - DPDK Optimisation &amp; Analysis Tool
 
 #### ⭐ Recent Stars
 
