@@ -26,7 +26,7 @@
 
 #### ⭐ Recent Stars
 
-- [ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.  (5 days ago)
+- [ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.  (6 days ago)
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources (1 month ago)
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine (3 months ago)
 - [FortAwesome/Font-Awesome-Pro](https://github.com/FortAwesome/Font-Awesome-Pro) - The internet&#39;s most popular icon has been redesigned and built from scratch. (4 months ago)
