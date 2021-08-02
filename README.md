@@ -8,9 +8,9 @@
 
 #### 🔨 Check out what I'm currently working on
 
+- [ULCompSoc/skynet.ie-renew](https://github.com/ULCompSoc/skynet.ie-renew) - Webpage explaining membership options to Alumni members (today)
 - [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (5 months ago)
 - [conorwalsh/esp8266-crypto](https://github.com/conorwalsh/esp8266-crypto) - ESP8266 project to display cryptocurrency and stock prices on an OLED (5 months ago)
-- [conorwalsh/advent-of-code-2020-c](https://github.com/conorwalsh/advent-of-code-2020-c) - Advent of Code 2020 - C (7 months ago)
 
 #### 🌱 My latest projects
 
