@@ -8,7 +8,7 @@
 
 #### 🔨 Check out what I'm currently working on
 
-- [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (4 months ago)
+- [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (5 months ago)
 - [conorwalsh/esp8266-crypto](https://github.com/conorwalsh/esp8266-crypto) - ESP8266 project to display cryptocurrency and stock prices on an OLED (5 months ago)
 - [conorwalsh/advent-of-code-2020-c](https://github.com/conorwalsh/advent-of-code-2020-c) - Advent of Code 2020 - C (7 months ago)
 
