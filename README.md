@@ -8,7 +8,7 @@
 
 #### 🔨 Check out what I'm currently working on
 
-- [ULCompSoc/skynet.ie-renew](https://github.com/ULCompSoc/skynet.ie-renew) - Webpage explaining membership options to Alumni members (4 days ago)
+- [ULCompSoc/skynet.ie-renew](https://github.com/ULCompSoc/skynet.ie-renew) - Webpage explaining membership options to Alumni members (5 days ago)
 - [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (5 months ago)
 - [conorwalsh/esp8266-crypto](https://github.com/conorwalsh/esp8266-crypto) - ESP8266 project to display cryptocurrency and stock prices on an OLED (5 months ago)
 
@@ -26,8 +26,8 @@
 
 #### ⭐ Recent Stars
 
-- [ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.  (1 week ago)
+- [ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.  (2 weeks ago)
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources (1 month ago)
-- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine (3 months ago)
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine (4 months ago)
 - [FortAwesome/Font-Awesome-Pro](https://github.com/FortAwesome/Font-Awesome-Pro) - The internet&#39;s most popular icon has been redesigned and built from scratch. (4 months ago)
 - [bbluez/esp8266-crypto](https://github.com/bbluez/esp8266-crypto) - ESP8266 project to display cryptocurrency prices on an OLED (5 months ago)
