@@ -8,7 +8,7 @@
 
 #### 🔨 Check out what I'm currently working on
 
-- [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (1 month ago)
+- [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (2 months ago)
 - [ULCompSoc/skynet.ie-renew](https://github.com/ULCompSoc/skynet.ie-renew) - Webpage explaining membership options to Alumni members (2 months ago)
 - [conorwalsh/esp8266-crypto](https://github.com/conorwalsh/esp8266-crypto) - ESP8266 project to display cryptocurrency and stock prices on an OLED (7 months ago)
 
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [conorwalsh/doat](https://github.com/conorwalsh/doat) ([v21.08](https://github.com/conorwalsh/doat/releases/tag/v21.08), 1 month ago) - DPDK Optimisation &amp; Analysis Tool
+- [conorwalsh/doat](https://github.com/conorwalsh/doat) ([v21.08](https://github.com/conorwalsh/doat/releases/tag/v21.08), 2 months ago) - DPDK Optimisation &amp; Analysis Tool
 
 #### ⭐ Recent Stars
 
-- [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal (6 days ago)
+- [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal (1 week ago)
 - [willmcgugan/textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development. (2 months ago)
 - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (2 months ago)
 - [ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.  (2 months ago)
