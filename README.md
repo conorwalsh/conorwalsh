@@ -26,7 +26,7 @@
 
 #### ⭐ Recent Stars
 
-- [WaterByWind/edgeos-bl-mgmt](https://github.com/WaterByWind/edgeos-bl-mgmt) - Automated updating of EdgeOS firewall network-group to be used as source address blacklist (1 week ago)
+- [WaterByWind/edgeos-bl-mgmt](https://github.com/WaterByWind/edgeos-bl-mgmt) - Automated updating of EdgeOS firewall network-group to be used as source address blacklist (2 weeks ago)
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal (4 weeks ago)
 - [willmcgugan/textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development. (3 months ago)
 - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (3 months ago)
