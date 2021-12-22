@@ -8,9 +8,9 @@
 
 #### 🔨 Check out what I'm currently working on
 
-- [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (5 days ago)
+- [conorwalsh/esp8266-crypto](https://github.com/conorwalsh/esp8266-crypto) - ESP8266 project to display cryptocurrency and stock prices on an OLED (1 day ago)
+- [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (6 days ago)
 - [ULCompSoc/skynet.ie-renew](https://github.com/ULCompSoc/skynet.ie-renew) - Webpage explaining membership options to Alumni members (4 months ago)
-- [conorwalsh/esp8266-crypto](https://github.com/conorwalsh/esp8266-crypto) - ESP8266 project to display cryptocurrency and stock prices on an OLED (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -22,12 +22,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [conorwalsh/doat](https://github.com/conorwalsh/doat) ([v21.11](https://github.com/conorwalsh/doat/releases/tag/v21.11), 5 days ago) - DPDK Optimisation &amp; Analysis Tool
+- [conorwalsh/doat](https://github.com/conorwalsh/doat) ([v21.11](https://github.com/conorwalsh/doat/releases/tag/v21.11), 6 days ago) - DPDK Optimisation &amp; Analysis Tool
 
 #### ⭐ Recent Stars
 
+- [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS (1 day ago)
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. (1 week ago)
 - [WaterByWind/edgeos-bl-mgmt](https://github.com/WaterByWind/edgeos-bl-mgmt) - Automated updating of EdgeOS firewall network-group to be used as source address blacklist (1 month ago)
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal (2 months ago)
 - [willmcgugan/textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development. (4 months ago)
-- [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (4 months ago)
