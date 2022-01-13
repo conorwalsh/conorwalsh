@@ -9,7 +9,7 @@
 #### 🔨 Check out what I'm currently working on
 
 - [conorwalsh/esp8266-crypto](https://github.com/conorwalsh/esp8266-crypto) - ESP8266 project to display cryptocurrency and stock prices on an OLED (1 week ago)
-- [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (3 weeks ago)
+- [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (4 weeks ago)
 - [ULCompSoc/skynet.ie-renew](https://github.com/ULCompSoc/skynet.ie-renew) - Webpage explaining membership options to Alumni members (5 months ago)
 
 #### 🌱 My latest projects
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [conorwalsh/doat](https://github.com/conorwalsh/doat) ([v21.11](https://github.com/conorwalsh/doat/releases/tag/v21.11), 3 weeks ago) - DPDK Optimisation &amp; Analysis Tool
+- [conorwalsh/doat](https://github.com/conorwalsh/doat) ([v21.11](https://github.com/conorwalsh/doat/releases/tag/v21.11), 4 weeks ago) - DPDK Optimisation &amp; Analysis Tool
 
 #### ⭐ Recent Stars
 
