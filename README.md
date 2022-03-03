@@ -8,7 +8,7 @@
 
 #### 🔨 Check out what I'm currently working on
 
-- [conorwalsh/esp8266-crypto](https://github.com/conorwalsh/esp8266-crypto) - ESP8266 project to display cryptocurrency and stock prices on an OLED (1 month ago)
+- [conorwalsh/esp8266-crypto](https://github.com/conorwalsh/esp8266-crypto) - ESP8266 project to display cryptocurrency and stock prices on an OLED (2 months ago)
 - [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (2 months ago)
 - [ULCompSoc/skynet.ie-renew](https://github.com/ULCompSoc/skynet.ie-renew) - Webpage explaining membership options to Alumni members (7 months ago)
 
