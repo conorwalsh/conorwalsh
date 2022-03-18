@@ -8,9 +8,9 @@
 
 #### 🔨 Check out what I'm currently working on
 
+- [conorwalsh/qos_sched_custom](https://github.com/conorwalsh/qos_sched_custom) - Modified DPDK QoS Scheduler Sample Application (1 day ago)
+- [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (4 days ago)
 - [conorwalsh/esp8266-crypto](https://github.com/conorwalsh/esp8266-crypto) - ESP8266 project to display cryptocurrency and stock prices on an OLED (2 months ago)
-- [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (3 months ago)
-- [ULCompSoc/skynet.ie-renew](https://github.com/ULCompSoc/skynet.ie-renew) - Webpage explaining membership options to Alumni members (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -22,7 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [conorwalsh/doat](https://github.com/conorwalsh/doat) ([v21.11](https://github.com/conorwalsh/doat/releases/tag/v21.11), 3 months ago) - DPDK Optimisation &amp; Analysis Tool
+- [conorwalsh/doat](https://github.com/conorwalsh/doat) ([v22.03](https://github.com/conorwalsh/doat/releases/tag/v22.03), 1 day ago) - DPDK Optimisation &amp; Analysis Tool
+- [conorwalsh/qos_sched_custom](https://github.com/conorwalsh/qos_sched_custom) ([v19.11](https://github.com/conorwalsh/qos_sched_custom/releases/tag/v19.11), 2 years ago) - Modified DPDK QoS Scheduler Sample Application
 
 #### ⭐ Recent Stars
 
