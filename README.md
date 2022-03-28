@@ -9,7 +9,7 @@
 #### 🔨 Check out what I'm currently working on
 
 - [conorwalsh/qos_sched_custom](https://github.com/conorwalsh/qos_sched_custom) - Modified DPDK QoS Scheduler Sample Application (1 week ago)
-- [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (1 week ago)
+- [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (2 weeks ago)
 - [conorwalsh/esp8266-crypto](https://github.com/conorwalsh/esp8266-crypto) - ESP8266 project to display cryptocurrency and stock prices on an OLED (2 months ago)
 
 #### 🌱 My latest projects
@@ -27,8 +27,8 @@
 
 #### ⭐ Recent Stars
 
-- [scottbarnesg/smart-sec-cam](https://github.com/scottbarnesg/smart-sec-cam) - A privacy-focused, intelligent security camera system. (6 days ago)
+- [jirihnidek/daemon](https://github.com/jirihnidek/daemon) - Simple example of daemon for Linux (today)
+- [scottbarnesg/smart-sec-cam](https://github.com/scottbarnesg/smart-sec-cam) - A privacy-focused, intelligent security camera system. (1 week ago)
 - [JeroenDelcour/tplot](https://github.com/JeroenDelcour/tplot) - A library for creating text-based graphs in the terminal (2 months ago)
 - [ikamensh/flynt](https://github.com/ikamensh/flynt) - A tool to automatically convert old string literal formatting to f-strings (2 months ago)
 - [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS (3 months ago)
-- [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. (3 months ago)
