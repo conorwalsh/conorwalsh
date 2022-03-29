@@ -27,8 +27,8 @@
 
 #### ⭐ Recent Stars
 
-- [jirihnidek/daemon](https://github.com/jirihnidek/daemon) - Simple example of daemon for Linux (today)
+- [akheron/jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data (today)
+- [jirihnidek/daemon](https://github.com/jirihnidek/daemon) - Simple example of daemon for Linux (1 day ago)
 - [scottbarnesg/smart-sec-cam](https://github.com/scottbarnesg/smart-sec-cam) - A privacy-focused, intelligent security camera system. (1 week ago)
 - [JeroenDelcour/tplot](https://github.com/JeroenDelcour/tplot) - A library for creating text-based graphs in the terminal (2 months ago)
 - [ikamensh/flynt](https://github.com/ikamensh/flynt) - A tool to automatically convert old string literal formatting to f-strings (2 months ago)
-- [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS (3 months ago)
