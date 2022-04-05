@@ -27,7 +27,7 @@
 
 #### ⭐ Recent Stars
 
-- [akheron/jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data (6 days ago)
+- [akheron/jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data (1 week ago)
 - [jirihnidek/daemon](https://github.com/jirihnidek/daemon) - Simple example of daemon for Linux (1 week ago)
 - [scottbarnesg/smart-sec-cam](https://github.com/scottbarnesg/smart-sec-cam) - A privacy-focused, intelligent security camera system. (2 weeks ago)
 - [JeroenDelcour/tplot](https://github.com/JeroenDelcour/tplot) - A library for creating text-based graphs in the terminal (2 months ago)
