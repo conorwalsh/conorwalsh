@@ -9,7 +9,7 @@
 #### 🔨 Check out what I'm currently working on
 
 - [conorwalsh/qos_sched_custom](https://github.com/conorwalsh/qos_sched_custom) - Modified DPDK QoS Scheduler Sample Application (3 weeks ago)
-- [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (3 weeks ago)
+- [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (4 weeks ago)
 - [conorwalsh/esp8266-crypto](https://github.com/conorwalsh/esp8266-crypto) - ESP8266 project to display cryptocurrency and stock prices on an OLED (3 months ago)
 
 #### 🌱 My latest projects
@@ -28,7 +28,7 @@
 #### ⭐ Recent Stars
 
 - [akheron/jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data (1 week ago)
-- [jirihnidek/daemon](https://github.com/jirihnidek/daemon) - Simple example of daemon for Linux (1 week ago)
-- [scottbarnesg/smart-sec-cam](https://github.com/scottbarnesg/smart-sec-cam) - A privacy-focused, intelligent security camera system. (2 weeks ago)
+- [jirihnidek/daemon](https://github.com/jirihnidek/daemon) - Simple example of daemon for Linux (2 weeks ago)
+- [scottbarnesg/smart-sec-cam](https://github.com/scottbarnesg/smart-sec-cam) - A privacy-focused, intelligent security camera system. (3 weeks ago)
 - [JeroenDelcour/tplot](https://github.com/JeroenDelcour/tplot) - A library for creating text-based graphs in the terminal (2 months ago)
 - [ikamensh/flynt](https://github.com/ikamensh/flynt) - A tool to automatically convert old string literal formatting to f-strings (2 months ago)
