@@ -27,8 +27,8 @@
 
 #### ⭐ Recent Stars
 
-- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (6 days ago)
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (1 week ago)
 - [akheron/jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data (2 weeks ago)
-- [jirihnidek/daemon](https://github.com/jirihnidek/daemon) - Simple example of daemon for Linux (2 weeks ago)
-- [scottbarnesg/smart-sec-cam](https://github.com/scottbarnesg/smart-sec-cam) - A privacy-focused, intelligent security camera system. (3 weeks ago)
+- [jirihnidek/daemon](https://github.com/jirihnidek/daemon) - Simple example of daemon for Linux (3 weeks ago)
+- [scottbarnesg/smart-sec-cam](https://github.com/scottbarnesg/smart-sec-cam) - A privacy-focused, intelligent security camera system. (4 weeks ago)
 - [JeroenDelcour/tplot](https://github.com/JeroenDelcour/tplot) - A library for creating text-based graphs in the terminal (2 months ago)
