@@ -10,7 +10,7 @@
 
 - [conorwalsh/qos_sched_custom](https://github.com/conorwalsh/qos_sched_custom) - Modified DPDK QoS Scheduler Sample Application (1 month ago)
 - [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (1 month ago)
-- [conorwalsh/esp8266-crypto](https://github.com/conorwalsh/esp8266-crypto) - ESP8266 project to display cryptocurrency and stock prices on an OLED (3 months ago)
+- [conorwalsh/esp8266-crypto](https://github.com/conorwalsh/esp8266-crypto) - ESP8266 project to display cryptocurrency and stock prices on an OLED (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -27,7 +27,7 @@
 
 #### ⭐ Recent Stars
 
-- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (2 weeks ago)
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (3 weeks ago)
 - [akheron/jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data (1 month ago)
 - [jirihnidek/daemon](https://github.com/jirihnidek/daemon) - Simple example of daemon for Linux (1 month ago)
 - [scottbarnesg/smart-sec-cam](https://github.com/scottbarnesg/smart-sec-cam) - A privacy-focused, intelligent security camera system. (1 month ago)
