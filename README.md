@@ -27,8 +27,8 @@
 
 #### ⭐ Recent Stars
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (today)
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (3 weeks ago)
 - [akheron/jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data (1 month ago)
 - [jirihnidek/daemon](https://github.com/jirihnidek/daemon) - Simple example of daemon for Linux (1 month ago)
 - [scottbarnesg/smart-sec-cam](https://github.com/scottbarnesg/smart-sec-cam) - A privacy-focused, intelligent security camera system. (1 month ago)
-- [JeroenDelcour/tplot](https://github.com/JeroenDelcour/tplot) - A library for creating text-based graphs in the terminal (3 months ago)
