@@ -28,7 +28,7 @@
 #### ⭐ Recent Stars
 
 - [pre-commit/identify](https://github.com/pre-commit/identify) - File identification library for Python (1 day ago)
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) -  (1 day ago)
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples (1 day ago)
 - [kissadamfkut/mora_blinker](https://github.com/kissadamfkut/mora_blinker) - Simple LED blinker with ATtiny13A for educational purposes (1 day ago)
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes! (2 days ago)
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations (1 week ago)
