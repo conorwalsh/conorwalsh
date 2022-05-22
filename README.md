@@ -27,8 +27,8 @@
 
 #### ⭐ Recent Stars
 
-- [pre-commit/identify](https://github.com/pre-commit/identify) - File identification library for Python (6 days ago)
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples (6 days ago)
-- [kissadamfkut/mora_blinker](https://github.com/kissadamfkut/mora_blinker) - Simple LED blinker with ATtiny13A for educational purposes (6 days ago)
+- [shellcheck-py/shellcheck-py](https://github.com/shellcheck-py/shellcheck-py) - python3/pip3 wrapper for installing shellcheck (1 day ago)
+- [pre-commit/identify](https://github.com/pre-commit/identify) - File identification library for Python (1 week ago)
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples (1 week ago)
+- [kissadamfkut/mora_blinker](https://github.com/kissadamfkut/mora_blinker) - Simple LED blinker with ATtiny13A for educational purposes (1 week ago)
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes! (1 week ago)
-- [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations (1 week ago)
