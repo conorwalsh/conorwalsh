@@ -27,8 +27,8 @@
 
 #### ⭐ Recent Stars
 
-- [shellcheck-py/shellcheck-py](https://github.com/shellcheck-py/shellcheck-py) - python3/pip3 wrapper for installing shellcheck (1 week ago)
+- [shellcheck-py/shellcheck-py](https://github.com/shellcheck-py/shellcheck-py) - python3/pip3 wrapper for installing shellcheck (2 weeks ago)
 - [pre-commit/identify](https://github.com/pre-commit/identify) - File identification library for Python (2 weeks ago)
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples (2 weeks ago)
 - [kissadamfkut/mora_blinker](https://github.com/kissadamfkut/mora_blinker) - Simple LED blinker with ATtiny13A for educational purposes (2 weeks ago)
-- [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes! (2 weeks ago)
+- [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes! (3 weeks ago)
