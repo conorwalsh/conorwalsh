@@ -31,4 +31,4 @@
 - [pre-commit/identify](https://github.com/pre-commit/identify) - File identification library for Python (4 weeks ago)
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples (4 weeks ago)
 - [kissadamfkut/mora_blinker](https://github.com/kissadamfkut/mora_blinker) - Simple LED blinker with ATtiny13A for educational purposes (4 weeks ago)
-- [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes! (4 weeks ago)
+- [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes! (1 month ago)
