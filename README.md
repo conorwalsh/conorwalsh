@@ -10,7 +10,7 @@
 
 - [conorwalsh/qos_sched_custom](https://github.com/conorwalsh/qos_sched_custom) - Modified DPDK QoS Scheduler Sample Application (4 months ago)
 - [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (4 months ago)
-- [conorwalsh/esp8266-crypto](https://github.com/conorwalsh/esp8266-crypto) - ESP8266 project to display cryptocurrency and stock prices on an OLED (6 months ago)
+- [conorwalsh/esp8266-crypto](https://github.com/conorwalsh/esp8266-crypto) - ESP8266 project to display cryptocurrency and stock prices on an OLED (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -27,8 +27,8 @@
 
 #### ⭐ Recent Stars
 
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere. (1 day ago)
 - [shellcheck-py/shellcheck-py](https://github.com/shellcheck-py/shellcheck-py) - python3/pip3 wrapper for installing shellcheck (2 months ago)
 - [pre-commit/identify](https://github.com/pre-commit/identify) - File identification library for Python (2 months ago)
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples (2 months ago)
 - [kissadamfkut/mora_blinker](https://github.com/kissadamfkut/mora_blinker) - Simple LED blinker with ATtiny13A for educational purposes (2 months ago)
-- [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes! (2 months ago)
