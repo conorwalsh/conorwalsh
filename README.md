@@ -9,7 +9,7 @@
 #### 🔨 Check out what I'm currently working on
 
 - [conorwalsh/qos_sched_custom](https://github.com/conorwalsh/qos_sched_custom) - Modified DPDK QoS Scheduler Sample Application (4 months ago)
-- [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (4 months ago)
+- [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (5 months ago)
 - [conorwalsh/esp8266-crypto](https://github.com/conorwalsh/esp8266-crypto) - ESP8266 project to display cryptocurrency and stock prices on an OLED (7 months ago)
 
 #### 🌱 My latest projects
@@ -27,7 +27,7 @@
 
 #### ⭐ Recent Stars
 
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (3 days ago)
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (4 days ago)
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere. (1 week ago)
 - [shellcheck-py/shellcheck-py](https://github.com/shellcheck-py/shellcheck-py) - python3/pip3 wrapper for installing shellcheck (2 months ago)
 - [pre-commit/identify](https://github.com/pre-commit/identify) - File identification library for Python (2 months ago)
