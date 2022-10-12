@@ -30,5 +30,5 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (2 months ago)
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere. (2 months ago)
 - [shellcheck-py/shellcheck-py](https://github.com/shellcheck-py/shellcheck-py) - python3/pip3 wrapper for installing shellcheck (4 months ago)
-- [pre-commit/identify](https://github.com/pre-commit/identify) - File identification library for Python (4 months ago)
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples (4 months ago)
+- [pre-commit/identify](https://github.com/pre-commit/identify) - File identification library for Python (5 months ago)
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples (5 months ago)
