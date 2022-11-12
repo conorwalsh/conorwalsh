@@ -8,7 +8,7 @@
 
 #### 🔨 Check out what I'm currently working on
 
-- [conorwalsh/qos_sched_custom](https://github.com/conorwalsh/qos_sched_custom) - Modified DPDK QoS Scheduler Sample Application (7 months ago)
+- [conorwalsh/qos_sched_custom](https://github.com/conorwalsh/qos_sched_custom) - Modified DPDK QoS Scheduler Sample Application (8 months ago)
 - [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (8 months ago)
 - [conorwalsh/esp8266-crypto](https://github.com/conorwalsh/esp8266-crypto) - ESP8266 project to display cryptocurrency and stock prices on an OLED (10 months ago)
 
@@ -22,12 +22,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [conorwalsh/doat](https://github.com/conorwalsh/doat) ([v22.03](https://github.com/conorwalsh/doat/releases/tag/v22.03), 7 months ago) - DPDK Optimisation &amp; Analysis Tool
+- [conorwalsh/doat](https://github.com/conorwalsh/doat) ([v22.03](https://github.com/conorwalsh/doat/releases/tag/v22.03), 8 months ago) - DPDK Optimisation &amp; Analysis Tool
 - [conorwalsh/qos_sched_custom](https://github.com/conorwalsh/qos_sched_custom) ([v19.11](https://github.com/conorwalsh/qos_sched_custom/releases/tag/v19.11), 2 years ago) - Modified DPDK QoS Scheduler Sample Application
 
 #### ⭐ Recent Stars
 
-- [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands  (4 days ago)
+- [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheet and resources (5 days ago)
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (3 months ago)
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere. (3 months ago)
 - [shellcheck-py/shellcheck-py](https://github.com/shellcheck-py/shellcheck-py) - python3/pip3 wrapper for installing shellcheck (5 months ago)
