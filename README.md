@@ -27,7 +27,7 @@
 
 #### ⭐ Recent Stars
 
-- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need (6 days ago)
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need (1 week ago)
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheet and resources (4 weeks ago)
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (4 months ago)
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere. (4 months ago)
