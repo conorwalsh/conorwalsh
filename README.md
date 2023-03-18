@@ -21,7 +21,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [conorwalsh/qos_sched_custom](https://github.com/conorwalsh/qos_sched_custom) ([v19.11](https://github.com/conorwalsh/qos_sched_custom/releases/tag/v19.11), 3 years ago) - Modified DPDK QoS Scheduler Sample Application
 
 #### ⭐ Recent Stars
 
