@@ -23,7 +23,7 @@
 #### ⭐ Recent Stars
 
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (3 weeks ago)
-- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need (5 months ago)
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need (6 months ago)
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheet and resources (6 months ago)
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (9 months ago)
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere. (10 months ago)
