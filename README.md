@@ -8,6 +8,8 @@
 
 #### 🔨 Check out what I'm currently working on
 
+- [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (today)
+- [conorwalsh/qos_sched_custom](https://github.com/conorwalsh/qos_sched_custom) - Modified DPDK QoS Scheduler Sample Application (today)
 
 #### 🌱 My latest projects
 
@@ -19,6 +21,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [conorwalsh/doat](https://github.com/conorwalsh/doat) ([v22.03](https://github.com/conorwalsh/doat/releases/tag/v22.03), 2 years ago) - DPDK Optimisation &amp; Analysis Tool
+- [conorwalsh/qos_sched_custom](https://github.com/conorwalsh/qos_sched_custom) ([v19.11](https://github.com/conorwalsh/qos_sched_custom/releases/tag/v19.11), 4 years ago) - Modified DPDK QoS Scheduler Sample Application
 
 #### ⭐ Recent Stars
 
