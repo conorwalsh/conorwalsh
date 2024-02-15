@@ -8,8 +8,8 @@
 
 #### 🔨 Check out what I'm currently working on
 
-- [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (2 weeks ago)
-- [conorwalsh/qos_sched_custom](https://github.com/conorwalsh/qos_sched_custom) - Modified DPDK QoS Scheduler Sample Application (2 weeks ago)
+- [conorwalsh/doat](https://github.com/conorwalsh/doat) - DPDK Optimisation &amp; Analysis Tool (3 weeks ago)
+- [conorwalsh/qos_sched_custom](https://github.com/conorwalsh/qos_sched_custom) - Modified DPDK QoS Scheduler Sample Application (3 weeks ago)
 
 #### 🌱 My latest projects
 
