@@ -22,7 +22,7 @@
 
 #### ⭐ Recent Stars
 
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (2 weeks ago)
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (3 weeks ago)
 - [bgreenwell/xleak](https://github.com/bgreenwell/xleak) - A fast terminal Excel viewer with an interactive TUI. Features full-text search, formula display, lazy loading for large files, clipboard support, and export to CSV/JSON. Built with Rust and ratatui. (1 month ago)
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you&#39;d like. (5 months ago)
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money. (9 months ago)
