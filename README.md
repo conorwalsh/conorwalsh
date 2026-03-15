@@ -24,6 +24,6 @@
 
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (2 months ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (3 months ago)
-- [bgreenwell/xleak](https://github.com/bgreenwell/xleak) - A fast terminal Excel viewer with an interactive TUI. Features full-text search, formula display, lazy loading for large files, clipboard support, and export to CSV/JSON. Built with Rust and ratatui. (3 months ago)
+- [bgreenwell/xleak](https://github.com/bgreenwell/xleak) - A fast terminal Excel viewer with an interactive TUI. Features full-text search, formula display, lazy loading for large files, clipboard support, and export to CSV/JSON. Built with Rust and ratatui. (4 months ago)
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you&#39;d like. (7 months ago)
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money. (11 months ago)
