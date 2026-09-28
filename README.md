@@ -22,7 +22,7 @@
 
 #### ⭐ Recent Stars
 
-- [timhartmann7/omnyssh](https://github.com/timhartmann7/omnyssh) - A fast, keyboard-driven TUI for managing SSH connections, written in Rust (today)
+- [timhartmann7/omnyssh](https://github.com/timhartmann7/omnyssh) - A fast, keyboard-driven TUI for managing SSH connections, written in Rust (1 day ago)
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository (2 weeks ago)
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. (2 weeks ago)
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes (2 months ago)
